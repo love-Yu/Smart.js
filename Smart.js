@@ -1,6 +1,6 @@
 /**
  * Smart.js
- * @Author chen erxiong
+ * @Author chen erxiong 123
  * @github github.com/chen1185280999
  * @QQ	1185280999 (24h在线)
  * 作用:方便,统一我们项目开发.
